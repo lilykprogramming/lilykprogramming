@@ -1,4 +1,4 @@
-<h2>About me</h2>
+<h2>About me 🙋‍♀️</h2>
 - 👋 Hi, I’m @lilykprogramming <br>
 - 👀 I’m interested in models AI, websites, programming and more.<br>
 - 🌱 I’m currently learning Python and Neural network 🕸📶🎇<br>
@@ -6,7 +6,7 @@
 - 🙂 My Linkedin: https://www.linkedin.com/in/oliwia-kuci%C5%84ska-619a3425b/<br>
 - 😄 Pronouns: She/her <br>
 - ⚡ Fun fact: I love cats! 🐈 and good music... 🎶🎵🎵🎵
-<h2>Languages</h2>
+<h2>Languages 👅</h2>
 - 🎇 HTML <br>
 - 🎀 CSS <br>
 - 👗 JavaScript <br>
@@ -15,13 +15,13 @@
 - 💋 Python <br>
 - 🎵 Java <br>
 - 🎺 C# <br>
-<h2>Interests</h2>
+<h2>Interests 🎤</h2>
 - 🧠 Machine Learning <br>
 - 🍴 Cooking <br>
 - 📲 Websites <br>
 - 📸 Photography <br>
 - 🎲 Graphics <br>
-<h2>My project</h2>
+<h2>My project 📽</h2>
  - 🤖 Thot - Model AI 
  https://github.com/lilykprogramming/Thot.git
  <br>
