@@ -39,4 +39,5 @@
  <br>
  - 📅 Speed Calculator 
  https://github.com/lilykprogramming/Speed-Calculator.git
- <br>
+ <h4>Future Project</h4>
+ - ⏲ More model AI, LLM,tic-tac-toe...
