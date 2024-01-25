@@ -25,6 +25,9 @@
  - 🤖 Thot - Model AI 
  https://github.com/lilykprogramming/Thot.git
  <br>
+ - 🔷 Mettia - Model AI
+ https://github.com/lilykprogramming/Mettia.git
+ <br>
  - 🐈 Kitty Sweet Game
  https://github.com/lilykprogramming/Kitty-Sweet-Game.git
  <br>
