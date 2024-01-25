@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lilykprogramming
+- 👀 I’m interested in models AI, websites, programming and more.
+- 🌱 I’m currently learning Python and Neural network.
+- 📫 How to reach me please write me in www.linkedin.com
+- 🙂 My Linkedin: https://www.linkedin.com/in/oliwia-kuci%C5%84ska-619a3425b/
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I love cats! 🐈
