@@ -15,3 +15,25 @@
 - 💋 Python <br>
 - 🎵 Java <br>
 - 🎺 C# <br>
+<h2>Interests</h2>
+- 🧠 Machine Learning <br>
+- 🍴 Cooking <br>
+- 📲 Websites <br>
+- 📸 Photography <br>
+- 🎲 Graphics <br>
+<h2>My project</h2>
+ - 🤖 Thot - Model AI 
+ https://github.com/lilykprogramming/Thot.git
+ <br>
+ - 🐈 Kitty Sweet Game
+ https://github.com/lilykprogramming/Kitty-Sweet-Game.git
+ <br>
+ - ⌛ Time Project
+ https://github.com/lilykprogramming/Time-Project.git
+ <br>
+ - 🤑 Currency Exchange Machine
+ https://github.com/lilykprogramming/Currency-Exchange-Machine.git
+ <br>
+ - 📅 Speed Calculator 
+ https://github.com/lilykprogramming/Speed-Calculator.git
+ <br>
