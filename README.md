@@ -1,7 +1,7 @@
 <h2>About me</h2>
 - 👋 Hi, I’m @lilykprogramming <br>
 - 👀 I’m interested in models AI, websites, programming and more.<br>
-- 🌱 I’m currently learning Python and Neural network.<br>
+- 🌱 I’m currently learning Python and Neural network 🕸📶🎇<br>
 - 📫 How to reach me please write me in www.linkedin.com<br>
 - 🙂 My Linkedin: https://www.linkedin.com/in/oliwia-kuci%C5%84ska-619a3425b/<br>
 - 😄 Pronouns: She/her
