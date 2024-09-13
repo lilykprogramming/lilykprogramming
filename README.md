@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Python, Big Data and Neural network 🕸📶🎇<br>
 - 📫 How to reach me please write me in www.linkedin.com<br>
 - 🙂 My Linkedin: https://www.linkedin.com/in/oliwia-kuci%C5%84ska-619a3425b/<br>
+- 😚 My discord: @lily.3954 <br>
 - 😄 Pronouns: She/her <br>
 - ⚡ Fun fact: I love cats! 🐈 and good music. 🎶🎵🎵🎵
 <h2>Languages 👅</h2>
