@@ -1,11 +1,11 @@
 <h2>About me 🙋‍♀️</h2>
-- 👋 Hi, I’m @lilykprogramming <br>
-- 👀 I’m interested in models AI, websites, programming and more.<br>
-- 🌱 I’m currently learning Python and Neural network 🕸📶🎇<br>
+- 👋 Hi Everyone, I’m @lilykprogramming <br>
+- 👀  I’m interested in models AI, mobile app and desktop application. 💻<br>
+- 🌱 I’m currently learning Python, Big Data and Neural network 🕸📶🎇<br>
 - 📫 How to reach me please write me in www.linkedin.com<br>
 - 🙂 My Linkedin: https://www.linkedin.com/in/oliwia-kuci%C5%84ska-619a3425b/<br>
 - 😄 Pronouns: She/her <br>
-- ⚡ Fun fact: I love cats! 🐈 and good music... 🎶🎵🎵🎵
+- ⚡ Fun fact: I love cats! 🐈 and good music. 🎶🎵🎵🎵
 <h2>Languages 👅</h2>
 - 🎇 HTML <br>
 - 🎀 CSS <br>
